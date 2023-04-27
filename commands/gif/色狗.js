@@ -6,6 +6,6 @@ module.exports = {
 		.setName('色狗')
 		.setDescription('色狗'),
 	async execute(interaction) {
-		await interaction.reply('https://cdn.discordapp.com/attachments/1020572202917167126/1099198346272440420/b776837dc4df1c90f0b245dfba3d43db.webp');
+		await interaction.reply('https://media.discordapp.net/attachments/1023555311459651654/1101128720196042782/UnDldbZ.jpg?width=466&height=676');
 	},
 };
