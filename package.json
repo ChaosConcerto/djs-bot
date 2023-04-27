@@ -1,10 +1,18 @@
 {
-  "type": "module",
+  "name": "djs-bot-01",
+  "version": "1.0.0",
+  "main": "index.js",
   "scripts": {
-    "dev":"node src/main.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
   "dependencies": {
-    "discord.js": "^14.9.0",
-    "dotenv": "^16.0.3"
+    "discord.js": "^14.9.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.39.0"
   }
 }
