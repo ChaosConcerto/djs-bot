@@ -6,6 +6,6 @@ module.exports = {
 		.setName('色狗1')
 		.setDescription('色狗1'),
 	async execute(interaction) {
-		await interaction.reply('https://images-ext-2.discordapp.net/external/gGPnK-MNQghU2YBAJGqQYuBw2N3NUQCCa7nLIQrA5Po/https/media.tenor.com/gEsy4vJ2q4AAAAPo/dog-shiba-inu.mp4');
+		await interaction.reply('https://media.discordapp.net/attachments/1023555311459651654/1101811316408205332/1649955937701.gif');
 	},
 };
